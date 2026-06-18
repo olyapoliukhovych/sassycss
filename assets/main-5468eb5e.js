@@ -39,6 +39,7 @@
     fetch(link.href, fetchOpts);
   }
 })();
+const main$1 = "";
 const main = "";
 function _toConsumableArray(arr) {
   if (Array.isArray(arr)) {
